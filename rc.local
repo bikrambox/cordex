@@ -1,2 +1,2 @@
-/usr/sbin/tunscript.sh || exit 1                                                          
+/usr/sbin/tun.sh || exit 1                                                          
 exit 0
